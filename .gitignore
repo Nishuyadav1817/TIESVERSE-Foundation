@@ -1,0 +1,5 @@
+node_modules
+Client/.parcel-cache/
+Client/.parcel-cache/
+.env
+dist/
