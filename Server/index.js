@@ -13,7 +13,7 @@ const Redis=require("./redis");
 const cors = require('cors'); 
 
 const allowedOrigins = [
-  "http://localhost:1234"
+  "https://tiesverse-foundation-1yk1.vercel.app"
 
  
 ];
